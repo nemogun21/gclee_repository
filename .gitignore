@@ -1,0 +1,23 @@
+﻿# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Secrets & Configs
+*.key
+*.pem
+secrets.toml
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
